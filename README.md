@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dunronal/Ronaldo 
-- 👀 I’m interested in App development, Web3 and web development
-- 🌱 I’m currently learning Java, and C#
-- 💞️ I’m looking to collaborate on project that may help me to learn more and build lastin connections
+- 👀 I’m interested in App, Software and web development
+- 🌱 I’m currently learning Java, JavaScript and C#
+- 💞️ I’m looking to collaborate on project that may help me to learn more and build lasting connections
 - 📫 How to reach me dunronal@outlook.com
 
 <!---
